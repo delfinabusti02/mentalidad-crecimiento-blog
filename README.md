@@ -128,4 +128,5 @@ Gracias a este proceso, el trabajo final logró una mayor coherencia, profundida
 - [x] Evidencia de control de versiones incluida.
 - [x] Reflexión sobre feedback radicalmente sincero incorporada.
 - [x] Aprendizajes y mejoras futuras documentados.
-Actualización de la reflexión final.
+
+Versión final del proyecto.
